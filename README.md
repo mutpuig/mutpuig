@@ -6,7 +6,7 @@
 
 ###### Web2.5
 - **Faucet** ✅
-  :books: REST API desarrollada con **Node.js**, **React**, **Nodo de ETH**, **Docker** mejorando las habilidades en el backend.  
+  REST API desarrollada con **Node.js**, **React**, **Nodo de ETH**, **Docker** mejorando las habilidades en el backend.  
   [https://github.com/codecrypto-academy/mutpuig/tree/web2.5-faucet](Enlace)
 <!--
 - **Cesta**  ✅
