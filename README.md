@@ -2,6 +2,9 @@
 
 :globe_with_meridians: Soy un estudiante de CodeCrypto Academy. :bulb: Mi objetivo es construir aplicaciones descentralizadas con uso real y que aporten valor. :100:
 
+:mag_right:	Puedes consultar mi progreso en CodeCrypto Academy:
+[https://github.com/codecrypto-academy/mutpuig](https://github.com/codecrypto-academy/mutpuig)
+
 ## Proyectos de descentralización :rocket:
 
 ###### Web2.5
